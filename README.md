@@ -18,3 +18,13 @@ This project demonstrates the process of building a high-accuracy image classifi
 - Train/test split using `sklearn.model_selection.train_test_split`
 - Model training using a deep neural network (ResNet50)
 - Evaluation of model performance
+
+## 🛠️ Tech Stack
+
+- Python
+- TensorFlow
+- Gradio
+- Hugging Face Spaces
+## 🔗 Demo
+
+👉 Live App: [Hugging Face Space](https://huggingface.co/spaces/ColdHearted/cifar10-classifier)
