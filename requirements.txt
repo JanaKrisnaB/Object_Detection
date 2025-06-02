@@ -1,6 +1,6 @@
-streamlit
 tensorflow==2.13.0
+streamlit==1.29.0
 numpy
-Pillow
+pillow
 gdown
 opencv-python
